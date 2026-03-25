@@ -1,0 +1,24 @@
+{
+  "name": "playwrightmcp",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests with AI Capabilities including MCP",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayakisland-coder/playwrightMcp.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "ChandraN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayakisland-coder/playwrightMcp/issues"
+  },
+  "homepage": "https://github.com/nayakisland-coder/playwrightMcp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
